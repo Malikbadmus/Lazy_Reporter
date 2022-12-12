@@ -1,0 +1,145 @@
+@charset "utf-8";
+
+.font{
+	position: relative;
+	left: 40px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+	position:relative;
+	left:300px;
+    color: grey;
+    text-align: center;
+    letter-spacing: 10px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: green;
+}
+
+
+a{text-decoration: none;}
+
+
+.container2{
+width:50%;
+height:500px;
+background:white;
+position:relative;
+left:600px;
+box-shadow:0 0 5px 7px whitesmoke;
+
+bottom: 270px;
+
+}
+.input {
+
+border:none;
+padding:5px;
+margin-top:10px;
+border:none;
+border-radius: 5px;
+
+width:180px;
+height:20px;
+box-shadow:0 0 1px 2px forestgreen;
+margin-bottom:20px
+}
+
+.nationality{
+	position: relative;
+	left: 30px;
+
+border:none;
+padding:5px;
+margin-top:10px;
+border:none;
+border-radius: 5px;
+width:200px;
+height:30px;
+box-shadow:0 0 1px 2px forestgreen;
+margin-bottom:20p
+}
+
+.Age{
+
+position: relative;
+	left: 100px;
+
+border:none;
+padding:5px;
+margin-top:10px;
+border:none;
+border-radius: 5px;
+width:100px;
+height:30px;
+box-shadow:0 0 1px 2px forestgreen;
+margin-bottom:20p
+
+
+}
+.email{
+
+position: relative;
+	left: 150px;
+
+border:none;
+padding:5px;
+margin-top:10px;
+border:none;
+border-radius: 5px;
+width:200px;
+height:20px;
+box-shadow:0 0 1px 2px forestgreen;
+margin-bottom:20p
+}
+
+.password{
+	position: relative;
+	left: 50px;
+
+border:none;
+padding:5px;
+margin-top:10px;
+border:none;
+border-radius: 5px;
+width:200px;
+height:30px;
+box-shadow:0 0 1px 2px forestgreen;
+margin-bottom:20p
+
+}
+
+.submit{
+	position: relative;
+	left: 280px;
+
+	border:none;
+color:white;
+border-radius:5px;
+background:forestgreen;
+padding:5px;
+margin-top:40px;
+border:none;
+width:100px;
+height:30px;
+font-size:16px
+}
+
